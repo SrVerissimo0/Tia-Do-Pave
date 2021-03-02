@@ -4,7 +4,7 @@ import { Nav } from 'react-bootstrap'
 
 function Menu() {
     return (
-        <Nav variant="pills" defaultActiveKey="/">
+        <Nav variant="pills" defaultActiveKey="/Tia-Do-Pave">
         <Nav.Item>
             <Nav.Link as={Link} to="/Tia-Do-Pave" href="/Tia-Do-Pave" eventKey="/Tia-Do-Pave">Cadastros</Nav.Link>
         </Nav.Item>
