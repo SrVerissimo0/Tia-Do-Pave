@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tia-Do-Pave/static/css/main.b9938706.chunk.css",
+    "main.js": "/Tia-Do-Pave/static/js/main.5334cb37.chunk.js",
+    "main.js.map": "/Tia-Do-Pave/static/js/main.5334cb37.chunk.js.map",
+    "runtime-main.js": "/Tia-Do-Pave/static/js/runtime-main.01024e32.js",
+    "runtime-main.js.map": "/Tia-Do-Pave/static/js/runtime-main.01024e32.js.map",
+    "static/js/2.b1646450.chunk.js": "/Tia-Do-Pave/static/js/2.b1646450.chunk.js",
+    "static/js/2.b1646450.chunk.js.map": "/Tia-Do-Pave/static/js/2.b1646450.chunk.js.map",
+    "index.html": "/Tia-Do-Pave/index.html",
+    "static/css/main.b9938706.chunk.css.map": "/Tia-Do-Pave/static/css/main.b9938706.chunk.css.map",
+    "static/js/2.b1646450.chunk.js.LICENSE.txt": "/Tia-Do-Pave/static/js/2.b1646450.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01024e32.js",
+    "static/js/2.b1646450.chunk.js",
+    "static/css/main.b9938706.chunk.css",
+    "static/js/main.5334cb37.chunk.js"
+  ]
+}
